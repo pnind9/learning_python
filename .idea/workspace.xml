@@ -2,32 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="251d887e-1589-432a-a59c-641057510f0c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex10.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex10_1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex11.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex12.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex12_1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex13.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex16.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex17.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex18.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex20.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex21.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex4.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex5.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex6.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex7.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex8.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex9.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test_copy.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test_copy2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test_copy3.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/learning_python.iml" afterPath="$PROJECT_DIR$/.idea/learning_python.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First half/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First half/ex1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First half/ex10.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First half/ex10_1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First half/ex11.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First half/ex12.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First half/ex12_1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First half/ex13.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First half/ex16.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First half/ex17.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First half/ex18.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First half/ex2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First half/ex20.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First half/ex21.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First half/ex24.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First half/ex25.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First half/ex26.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First half/ex4.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First half/ex5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First half/ex6.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First half/ex7.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First half/ex8.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First half/ex9.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First half/test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First half/test_copy.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First half/test_copy2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First half/test_copy3.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="learning_python.iws" />
@@ -48,7 +49,108 @@
     <favorites_list name="learning_python" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="ex1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/First half/ex1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/First half/ex2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex4.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/First half/ex4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex5.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/First half/ex5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex6.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/First half/ex6.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex7.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/First half/ex7.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex8.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/First half/ex8.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex9.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/First half/ex9.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex10.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/First half/ex10.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex11.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/First half/ex11.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -139,24 +241,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learning_python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learning_python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learning_python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="First half" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -167,6 +251,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/learning_python" />
       <recent name="$PROJECT_DIR$/learning_python/First half" />
     </key>
   </component>
@@ -305,6 +391,13 @@
       <option name="number" value="Default" />
       <updated>1455389985390</updated>
     </task>
+    <task id="LOCAL-00001" summary="Updated as moving into second half">
+      <created>1455575293509</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1455575293509</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -320,9 +413,9 @@
     <frame x="13" y="23" width="1203" height="977" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27918783" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33502537" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299435" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3299435" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299435" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -352,7 +445,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/learning_python/First half/ex21.py">
+    <entry file="file://$PROJECT_DIR$/First half/ex21.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -360,7 +453,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learning_python/First half/ex24.py">
+    <entry file="file://$PROJECT_DIR$/First half/ex24.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4159292">
           <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
@@ -368,7 +461,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learning_python/First half/ex25.py">
+    <entry file="file://$PROJECT_DIR$/First half/ex25.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.42477876">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
@@ -376,7 +469,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learning_python/First half/ex26.py">
+    <entry file="file://$PROJECT_DIR$/First half/ex26.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.221239">
           <caret line="46" column="26" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
@@ -384,7 +477,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learning_python/First half/ex1.py">
+    <entry file="file://$PROJECT_DIR$/First half/ex10_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -392,7 +485,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learning_python/First half/ex2.py">
+    <entry file="file://$PROJECT_DIR$/First half/ex1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -400,7 +493,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learning_python/First half/ex4.py">
+    <entry file="file://$PROJECT_DIR$/First half/ex2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -408,7 +501,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learning_python/First half/ex5.py">
+    <entry file="file://$PROJECT_DIR$/First half/ex4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -416,7 +509,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learning_python/First half/ex6.py">
+    <entry file="file://$PROJECT_DIR$/First half/ex5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -424,7 +517,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learning_python/First half/ex7.py">
+    <entry file="file://$PROJECT_DIR$/First half/ex6.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -432,7 +525,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learning_python/First half/ex8.py">
+    <entry file="file://$PROJECT_DIR$/First half/ex7.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -440,7 +533,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learning_python/First half/ex9.py">
+    <entry file="file://$PROJECT_DIR$/First half/ex8.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -448,7 +541,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learning_python/First half/ex10.py">
+    <entry file="file://$PROJECT_DIR$/First half/ex9.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -456,7 +549,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learning_python/First half/ex10_1.py">
+    <entry file="file://$PROJECT_DIR$/First half/ex10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/First half/ex11.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
