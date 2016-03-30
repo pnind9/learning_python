@@ -46,5 +46,20 @@ def set(aMap, key, value):
         bucket.append((key, value))
 
 def delete(aMap, key):
+    """Deletes the given key from the map."""
+    bucket = get_bucket(aMap, key)
+
+    for i in xrange(len(bucket)):
+        k, v = bucket[i]
+        if key == k:
+            del bucket[i]
+            break
+
+def list(aMap):
+    """Prints out what's on the map"""
+    for bucket in aMap:
+        if bucket:
+            for k, v in bucket:
+                print k,v
 
 
